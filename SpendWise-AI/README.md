@@ -1,3 +1,4 @@
+[![Give Feedback](https://img.shields.io/badge/📝%20Give%20Feedback-brightgreen?style=for-the-badge)](https://forms.gle/zsWrxDVqo87QKfzFA)
 
 # 💸 SpendWise AI – Gen Z Personal Finance Copilot
 
