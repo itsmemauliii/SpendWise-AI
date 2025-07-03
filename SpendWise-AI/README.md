@@ -23,3 +23,11 @@ streamlit run app/main.py
 
 ## License
 MIT © Mauli Patel
+
+## 💬 Feedback
+
+We’d love to hear what you think about SpendWise AI!
+
+👉 [Click here to fill our 60-second feedback form](https://forms.gle/zsWrxDVqo87QKfzFA)
+
+Your ideas = our upgrades. Help us make money tracking more fun, smart, and stress-free! 💚
