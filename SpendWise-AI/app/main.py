@@ -1,8 +1,7 @@
 
-import streamlit as st
-from app.utils import clean_data, categorize_transactions
-from app.visuals import generate_dashboard
-from app.prompts import generate_summary
+from utils import clean_data, categorize_transactions
+from visuals import generate_dashboard
+from prompts import generate_summary
 
 st.set_page_config(page_title="SpendWise AI", layout="wide")
 
