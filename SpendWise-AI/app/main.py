@@ -19,3 +19,8 @@ if uploaded_file:
     with st.expander("📬 Weekly AI Summary"):
         summary = generate_summary(df)
         st.markdown(summary)
+        
+st.markdown("---")
+st.markdown("## 💬 Share Your Feedback")
+st.markdown("Help us improve SpendWise AI by sharing your thoughts 💡")
+st.markdown("[📝 Fill out the feedback form here](https://forms.gle/zsWrxDVqo87QKfzFA)")
